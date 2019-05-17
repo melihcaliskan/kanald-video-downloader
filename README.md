@@ -9,6 +9,10 @@ git clone https://github.com/melihcaliskan/kanald-video-downloader
 npm i
 ```
 
+##Prerequisites
+* node
+* ffmpeg
+
 ## Usage
 
 ```bash
